@@ -1,0 +1,41 @@
+.banner{
+ display: flex;
+background-color:#E554731A;
+height: 500px;
+width:100%;
+}
+.part-1{
+margin-left: 140px;
+    font-size: 80px;
+font-style: open
+}
+.btn-color{
+margin-left: 140px;
+border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: white;
+border: none;
+}
+#extra{
+    margin-left: 140px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    line-height: 30px;
+}
+.start{
+font-size: 50px;
+    margin-left: 140px;
+    color: #272727;
+   
+
+   
+}
+.image{
+
+margin-right:500px ;
+}
