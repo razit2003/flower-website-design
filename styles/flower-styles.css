@@ -52,61 +52,62 @@ body {
 #clr-change {
 
     color: #E55473;
-
-}
-
-.deal-title {
-
     color: #272727;
-
+    font-family: Lato;
     font-size: 40px;
-
-
-    line-height: normal;
-    position: relative;
-    left: 300px;
-    top: 110px;
-}
-
-#wrd-color {
-
-    color: rgba(229, 84, 115, 1);
-}
-
-.sec-btn {
-    position: relative;
-    left: 300px;
-    padding: 20px 43px;
-    color: white;
-    gap: 10px;
-    border-radius: 8px;
-    background: #E55473;
-    border: none;
-    position: relative;
-    bottom: 220px;
-
-}
-
-.deal-descrip {
-    position: relative;
-    left: 300px;
-
-    color: #272727;
-
-
     font-style: normal;
-
+    font-weight: 800;
     line-height: normal;
-    top: 110px
 }
 
-main {
 
-    background-color: rgba(229, 84, 115, 0.05);
+.span{
 
-    width: auto;
-    height: 500px
+
+    color:rgba(229, 84, 115, 1) ;
 }
+.offer{
+
+display: flex;
+background:rgba(229, 84, 115, 0.05) ;
+margin-top:30px; 
+}
+.deal{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+
+}
+.img2{
+
+    margin-left: 300px;
+}
+.offer-text{
+max-width: 500px;
+text-align: center;
+flex-direction: column;
+margin-top: 100px;
+margin-left: 150px;
+}
+
+
+.btn {
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border: none;
+color: white;
+}
+
+
+
 
 .sec-img {
 
@@ -137,6 +138,7 @@ display: block;
     margin-top: 128px;
 margin-left: auto;
 margin-right: auto;
+
 }
 .last{
 text-align: center;
@@ -151,10 +153,10 @@ height: 449px ;
 color:white ;
 text-align: center;
 font-size: 48px;
-
+margin-top: 128px;
 }
 .pink{
-
+    margin-top: 128px;
     color: #E55473;
 }
 .last-para{
@@ -166,4 +168,11 @@ text-align: center;
     color:white;
 text-align: center;
 font-size: smaller
+}
+.last{
+
+    text-align: center;
+}
+.get{
+
 }
