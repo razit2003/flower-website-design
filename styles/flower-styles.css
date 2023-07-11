@@ -239,3 +239,11 @@ flex-shrink: 0;
 border: none;
 padding-left:20px;
 }
+.gen{
+
+    height: 40px;
+width: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
