@@ -138,3 +138,32 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
+.last{
+text-align: center;
+background-color:#111010;
+
+margin-top: 128px ;
+margin-left: auto;
+margin-right: auto;
+height: 449px ;
+}
+.last-flw{
+color:white ;
+text-align: center;
+font-size: 48px;
+
+}
+.pink{
+
+    color: #E55473;
+}
+.last-para{
+color: white;
+text-align: center;
+
+}
+.copy-r{
+    color:white;
+text-align: center;
+font-size: smaller
+}

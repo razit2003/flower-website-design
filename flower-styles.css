@@ -67,3 +67,8 @@ color: white;
 display: center;
     font-size: 40px;
 }
+.last{
+
+ display: block;
+margin: auto;
+}
