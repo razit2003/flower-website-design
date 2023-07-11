@@ -162,7 +162,6 @@ margin-top: 128px;
 .last-para{
 color: white;
 text-align: center;
-
 }
 .copy-r{
     color:white;
@@ -173,6 +172,15 @@ font-size: smaller
 
     text-align: center;
 }
-.get{
+.all{
 
+    padding-top:25px;
+}
+.last-flw{
+margin-bottom: 20px;
+
+}
+.copy-r{
+
+    margin-top: 50px;
 }
